@@ -12,6 +12,7 @@ body {
 }
 .header-img {
     width: 90%;
+    padding-top: 100px;
 }
 .color {
     color: #12B3FB;
@@ -37,7 +38,7 @@ p {
     border-radius: 20px;
 }
 .left-head {
-    padding-top: 60px;
+    padding-top: 140px;
     padding-left: 100px;
 }
 .bnr-img {
